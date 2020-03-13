@@ -44,7 +44,7 @@ server.post("/", function(req, res){
     const query = `INSERT INTO donors ("name", "email", "blood") VALUES ($1, $2, $3)`
     const values = [name, email, blood]
     db.query(query, values, function(err){
-        if (err) return res.render("indexe.html");
+        if (err) return res.render("index.html");
         return res.redirect("/")
     })
 })
