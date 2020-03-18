@@ -6,16 +6,16 @@
   🚀 Maratona Dev
 </h4>
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Rocketseat/semana-omnistack-10">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/olordeban/doe">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Rocketseat/semana-omnistack-10">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/olordeban/doe">
   
   <a href="https://github.com/olordeban/devradar/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Rocketseat/semana-omnistack-10">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/olordeban/doe">
   </a>
 
   <a href="https://github.com/olordeban/devradar/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/Rocketseat/semana-omnistack-10">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/olordeban/doe">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
