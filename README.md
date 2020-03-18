@@ -32,7 +32,7 @@
 <br>
 
 <p align="center">
-  <img alt="Frontend" src=".github/doe.png" width="100%">
+  <img alt="Frontend" src="New Project.png" width="100%">
 </p>
 
 ## :rocket: Tecnologias
