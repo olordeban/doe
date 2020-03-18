@@ -32,7 +32,7 @@
 <br>
 
 <p align="center">
-  <img alt="Frontend" src="public/logo.png" width="100%">
+  <img alt="Frontend" src=".github/doe.png" width="100%">
 </p>
 
 ## :rocket: Tecnologias
@@ -43,7 +43,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O DevRadar é um projeto que visa conectar desenvolvedores próximos a você que trabalham com as mesmas tecnologias.
+O Doe é um projeto que visa encontrar novos doadores de sangue.
 
 ## 🔖 Layout
 
