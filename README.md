@@ -10,11 +10,11 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/olordeban/doe">
   
-  <a href="https://github.com/olordeban/devradar/commits/master">
+  <a href="https://github.com/olordeban/doe/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/olordeban/doe">
   </a>
 
-  <a href="https://github.com/olordeban/devradar/issues">
+  <a href="https://github.com/olordeban/doe/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/olordeban/doe">
   </a>
 
